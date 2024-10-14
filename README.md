@@ -30,16 +30,16 @@
             <div id="wrap">
                 <div id="text">
                     <div id="code">
-                      <span class="say"> Happiest Birthday  </span><br>
-                      <span class="say">My Beautiful🫀 </span><br>             
-                      <span class="say"> Radhika </span><br>             
-                      <span class="say">I'LL GIVE YOU</span><br>
-                      <span class="say">ALL THE LOVE🥰</span><br>
-                      <span class="say">THAT ONE CAN💕</span><br>
-                      <span class="say">Your @techeonn🫶! </span><br>
-                      <span class="say">THAT I CAN💕</span><br>
-                      <span class="say">Your @pravi🫶! </span><br>
-                      <span class="say"><span class="space"></span></span> </font>
+                      <span class="say"> Happy Birthday  </span><br>
+                      <span class="say">My gorgeous 🪷 </span><br>             
+                      <span class="say">✨💐My sweet hearted madam ji 💐✨</span><br>             
+                      <span class="say">Happiest birthday to you </span><br>
+                      <span class="say">🌸 Radhika madam ji 🌸</span><br>
+                      <span class="say">🫶 Miss 18🫰🥰 </span><br>
+                      <span class="say">🥳🥳🥳Many many returns of the day🎊🎊🎊🎉🎉🎉 </span><br>
+                      <span class="say"> God bless you 😇🤞</span><br>
+                      <span class="say">you entered a new phase of your life, you will create some best memories i hope god always bless you and take care of your health, and also i want to say thanks to you for everything that you do for me i hope your all dreams will complete and you will achieve what you want in your life...😊 Once again happiest birthday radhi....🤗.  </span><br>
+                      <span class="say">Always stay happy and keep smiling 😁😉<span class="space"></span></span> </font>
                           <br />
                           <br />
                       </p>
